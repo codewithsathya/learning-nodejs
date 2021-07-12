@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.13.2",
-    "underscore": "^1.13.1"
+    "mongoose": "^5.13.2", // Major.Minor.Patch   // 5.x
+    "underscore": "~1.13.1" // Tilde // 1.13.x 
   }
 }
