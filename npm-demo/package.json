@@ -9,7 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.13.2", // Major.Minor.Patch   // 5.x
-    "underscore": "~1.13.1" // Tilde // 1.13.x 
+    "mongoose": "^5.13.2",
+    "underscore": "^1.13.1"
+  },
+  "devDependencies": { //npm i jshint --save-dev
+    "jshint": "^2.13.0"
   }
 }
