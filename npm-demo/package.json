@@ -4,15 +4,16 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mongoose": "^5.13.2",
+    "lion-add-num": "^1.0.0",
+    "nodemon": "^2.0.12",
     "underscore": "^1.13.1"
   },
-  "devDependencies": { //npm i jshint --save-dev
+  "devDependencies": {
     "jshint": "^2.13.0"
   }
 }
